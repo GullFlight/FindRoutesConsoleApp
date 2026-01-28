@@ -1,0 +1,2095 @@
+{
+  "Санкт-Петербург-Псков-1": {
+    "interval_segments": [],
+    "pagination": {
+      "limit": 100,
+      "offset": 0,
+      "total": 19
+    },
+    "search": {
+      "date": "2025-04-01",
+      "from": {
+        "code": "c2",
+        "popular_title": "Санкт-Петербург",
+        "short_title": "Санкт-Петербург",
+        "title": "Санкт-Петербург",
+        "type": "settlement"
+      },
+      "to": {
+        "code": "c25",
+        "popular_title": "Псков",
+        "short_title": "Псков",
+        "title": "Псков",
+        "type": "settlement"
+      }
+    },
+    "segments": [
+      {
+        "arrival": "2025-04-01T10:20:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T06:55:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 12300.0,
+        "from": {
+          "code": "s9602498",
+          "popular_title": "Балтийский вокзал",
+          "short_title": "СПб-Балт.",
+          "station_type": "train_station",
+          "station_type_name": "вокзал",
+          "title": "Санкт-Петербург (Балтийский вокзал)",
+          "transport_type": "train",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "",
+            "code": 4240,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+            "email": "",
+            "logo": "https://yastat.net/s3/rasp/media/data/company/logo/doss.jpg",
+            "logo_svg": null,
+            "phone": "+7 (800) 775-00-00",
+            "title": "РЖД/ДОСС",
+            "url": "http://www.rzd.ru/"
+          },
+          "express_type": null,
+          "number": "809В",
+          "short_title": "Санкт-Петербург — Псков",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=809V_4_2",
+          "title": "Санкт-Петербург — Псков",
+          "transport_subtype": {
+            "code": "lastdal",
+            "color": "#CC6600",
+            "title": "«Ласточка»"
+          },
+          "transport_type": "train",
+          "uid": "809V_4_2",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 725
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9602993",
+          "popular_title": null,
+          "short_title": null,
+          "station_type": "station",
+          "station_type_name": "станция",
+          "title": "Псков-Пасс.",
+          "transport_type": "train",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T11:45:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T07:30:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 15300.0,
+        "from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "",
+            "code": 62263,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "",
+            "email": "",
+            "logo": null,
+            "logo_svg": null,
+            "phone": "",
+            "title": "ООО \"ЭКОЛАЙНС РУС\"",
+            "url": ""
+          },
+          "express_type": null,
+          "number": "",
+          "short_title": "Санкт-Петербург, автовокзал на Обводном канале — Смоленск",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=empty_0_f9637148t9623429_114",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале — Смоленск",
+          "transport_subtype": {
+            "code": null,
+            "color": null,
+            "title": null
+          },
+          "transport_type": "bus",
+          "uid": "empty_0_f9637148t9623429_114",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 1700
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T12:55:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T07:30:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 19500.0,
+        "from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "195067, город Санкт-Петербург, Екатерининский проспект, дом 3, Литер А.",
+            "code": 56543,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "+7 (800) 770-00-20 - звонок бесплатный;<br> +7 (812) 604-00-12",
+            "email": null,
+            "logo": null,
+            "logo_svg": null,
+            "phone": "",
+            "title": "ООО\"СКСавто\"",
+            "url": null
+          },
+          "express_type": null,
+          "number": "",
+          "short_title": "Санкт-Петербург, автовокзал на Обводном канале — Минск, автовокзал «Центральный»",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=empty_7_f9637148t9752664_114",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале — Минск, автовокзал «Центральный»",
+          "transport_subtype": {
+            "code": null,
+            "color": null,
+            "title": null
+          },
+          "transport_type": "bus",
+          "uid": "empty_7_f9637148t9752664_114",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 880
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T14:20:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T09:15:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 18300.0,
+        "from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "",
+            "code": 66068,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "",
+            "email": "",
+            "logo": null,
+            "logo_svg": null,
+            "phone": "",
+            "title": "ИП Мешков Алексей Анатольевич",
+            "url": ""
+          },
+          "express_type": null,
+          "number": "",
+          "short_title": "Санкт-Петербург, автовокзал на Обводном канале — Бежаницы",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=empty_0_f9637148t9637835_114",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале — Бежаницы",
+          "transport_subtype": {
+            "code": null,
+            "color": null,
+            "title": null
+          },
+          "transport_type": "bus",
+          "uid": "empty_0_f9637148t9637835_114",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 1250
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T17:10:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T12:00:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 18600.0,
+        "from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "",
+            "code": 7895,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "",
+            "email": "",
+            "logo": null,
+            "logo_svg": null,
+            "phone": "",
+            "title": "ИП Андреев Алексей Анатольевич",
+            "url": null
+          },
+          "express_type": null,
+          "number": "",
+          "short_title": "Санкт-Петербург, автовокзал на Обводном канале — Пустошка",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=empty_0_f9637148t9637853_114",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале — Пустошка",
+          "transport_subtype": {
+            "code": null,
+            "color": null,
+            "title": null
+          },
+          "transport_type": "bus",
+          "uid": "empty_0_f9637148t9637853_114",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 1250
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T17:05:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T13:40:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 12300.0,
+        "from": {
+          "code": "s9602498",
+          "popular_title": "Балтийский вокзал",
+          "short_title": "СПб-Балт.",
+          "station_type": "train_station",
+          "station_type_name": "вокзал",
+          "title": "Санкт-Петербург (Балтийский вокзал)",
+          "transport_type": "train",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "",
+            "code": 4240,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+            "email": "",
+            "logo": "https://yastat.net/s3/rasp/media/data/company/logo/doss.jpg",
+            "logo_svg": null,
+            "phone": "+7 (800) 775-00-00",
+            "title": "РЖД/ДОСС",
+            "url": "http://www.rzd.ru/"
+          },
+          "express_type": null,
+          "number": "811В",
+          "short_title": "Санкт-Петербург — Псков",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=811V_2_2",
+          "title": "Санкт-Петербург — Псков",
+          "transport_subtype": {
+            "code": "lastdal",
+            "color": "#CC6600",
+            "title": "«Ласточка»"
+          },
+          "transport_type": "train",
+          "uid": "811V_2_2",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 725
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9602993",
+          "popular_title": null,
+          "short_title": null,
+          "station_type": "station",
+          "station_type_name": "станция",
+          "title": "Псков-Пасс.",
+          "transport_type": "train",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T21:30:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T14:40:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 24600.0,
+        "from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "г. Санкт-Петербург, Екатерининский проспект, дом 3, Литер А",
+            "code": 56544,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "Касса по продаже билетов от автовокзала на Обводном канале д. 36 располагается не на самом автовокзале, а рядом с ним! <br>\r\nАдрес: Набережная Обводного канала, д. 42, вход через магазин \"Продукты\". <br>\r\nЧасы работы: с 06:30 до 21:30 без перерыва и выходных. <br>\r\nТелефон кассы: +7 (800) 700-90-22. <br>\r\nТелефоны перевозчика: +7 (800) 770-00-20 - звонок бесплатный;<br> +7 (812) 604-00-12",
+            "email": null,
+            "logo": null,
+            "logo_svg": null,
+            "phone": "+7 (800) 770-00-20",
+            "title": "ООО \"СКСавто\"",
+            "url": "https://sks-auto.ru"
+          },
+          "express_type": null,
+          "number": "6037",
+          "short_title": "Санкт-Петербург - Псков",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=empty_1_f9637148t9623413_1",
+          "title": "Санкт-Петербург - Псков",
+          "transport_subtype": {
+            "code": null,
+            "color": null,
+            "title": null
+          },
+          "transport_type": "bus",
+          "uid": "empty_1_f9637148t9623413_1",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": []
+        },
+        "to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T23:00:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T18:00:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 18000.0,
+        "from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "",
+            "code": 7895,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "",
+            "email": "",
+            "logo": null,
+            "logo_svg": null,
+            "phone": "",
+            "title": "ИП Андреев Алексей Анатольевич",
+            "url": null
+          },
+          "express_type": null,
+          "number": "",
+          "short_title": "Санкт-Петербург, автовокзал на Обводном канале — Красногородск",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=empty_0_f9637148t9652618_114",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале — Красногородск",
+          "transport_subtype": {
+            "code": null,
+            "color": null,
+            "title": null
+          },
+          "transport_type": "bus",
+          "uid": "empty_0_f9637148t9652618_114",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 1250
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T23:20:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T19:00:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 15600.0,
+        "from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "г. Санкт-Петербург, Подъездной переулок, дом 3",
+            "code": 2641,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "Санкт-Петербург +7 (812) 325-21-52, <br>Москва +7 (495) 978-02-81, <br>Калининград +7 (4012) 75-87-33, <br>Псков +7 (8112) 73-50-55, <br>Минск +375 (29) 353-30-60, <br>Киев +380 (44) 279-24-62",
+            "email": "eco@ecolines.ru",
+            "logo": null,
+            "logo_svg": null,
+            "phone": "+7 (812) 325-21-52",
+            "title": "ECOLINES",
+            "url": "http://ecolines.ru/ru/"
+          },
+          "express_type": null,
+          "number": "6276",
+          "short_title": "Санкт-Петербург - Смоленск",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=empty_0_f9637148t9623429_1",
+          "title": "Санкт-Петербург - Смоленск",
+          "transport_subtype": {
+            "code": null,
+            "color": null,
+            "title": null
+          },
+          "transport_type": "bus",
+          "uid": "empty_0_f9637148t9623429_1",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": []
+        },
+        "to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-02T00:10:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T20:00:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 15000.0,
+        "from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "",
+            "code": 66068,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "",
+            "email": "",
+            "logo": null,
+            "logo_svg": null,
+            "phone": "",
+            "title": "ИП Мешков Алексей Анатольевич",
+            "url": ""
+          },
+          "express_type": null,
+          "number": "",
+          "short_title": "Санкт-Петербург, автовокзал на Обводном канале — Себеж",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=empty_1_f9637148t9637856_114",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале — Себеж",
+          "transport_subtype": {
+            "code": null,
+            "color": null,
+            "title": null
+          },
+          "transport_type": "bus",
+          "uid": "empty_1_f9637148t9637856_114",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 1250
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T23:47:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T20:20:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 12420.0,
+        "from": {
+          "code": "s9602498",
+          "popular_title": "Балтийский вокзал",
+          "short_title": "СПб-Балт.",
+          "station_type": "train_station",
+          "station_type_name": "вокзал",
+          "title": "Санкт-Петербург (Балтийский вокзал)",
+          "transport_type": "train",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "",
+            "code": 4240,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+            "email": "",
+            "logo": "https://yastat.net/s3/rasp/media/data/company/logo/doss.jpg",
+            "logo_svg": null,
+            "phone": "+7 (800) 775-00-00",
+            "title": "РЖД/ДОСС",
+            "url": "http://www.rzd.ru/"
+          },
+          "express_type": null,
+          "number": "813В",
+          "short_title": "Санкт-Петербург — Псков",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=813V_1_2",
+          "title": "Санкт-Петербург — Псков",
+          "transport_subtype": {
+            "code": "lastdal",
+            "color": "#CC6600",
+            "title": "«Ласточка»"
+          },
+          "transport_type": "train",
+          "uid": "813V_1_2",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 725
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9602993",
+          "popular_title": null,
+          "short_title": null,
+          "station_type": "station",
+          "station_type_name": "станция",
+          "title": "Псков-Пасс.",
+          "transport_type": "train",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-02T03:55:00+03:00",
+        "arrival_platform": "",
+        "arrival_terminal": null,
+        "departure": "2025-04-01T22:50:00+03:00",
+        "departure_platform": "",
+        "departure_terminal": null,
+        "duration": 18300.0,
+        "from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "has_transfers": false,
+        "start_date": "2025-04-01",
+        "stops": "",
+        "thread": {
+          "carrier": {
+            "address": "",
+            "code": 66068,
+            "codes": {
+              "iata": null,
+              "icao": null,
+              "sirena": null
+            },
+            "contacts": "",
+            "email": "",
+            "logo": null,
+            "logo_svg": null,
+            "phone": "",
+            "title": "ИП Мешков Алексей Анатольевич",
+            "url": ""
+          },
+          "express_type": null,
+          "number": "",
+          "short_title": "Санкт-Петербург, автовокзал на Обводном канале — Бежаницы",
+          "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-04-01&uid=empty_1_f9637148t9637835_114",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале — Бежаницы",
+          "transport_subtype": {
+            "code": null,
+            "color": null,
+            "title": null
+          },
+          "transport_type": "bus",
+          "uid": "empty_1_f9637148t9637835_114",
+          "vehicle": null
+        },
+        "tickets_info": {
+          "et_marker": false,
+          "places": [
+            {
+              "currency": "RUB",
+              "name": null,
+              "price": {
+                "cents": 0,
+                "whole": 1250
+              }
+            }
+          ]
+        },
+        "to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        }
+      },
+      {
+        "arrival": "2025-04-01T20:25:00+03:00",
+        "arrival_to": {
+          "code": "s9623414",
+          "popular_title": "",
+          "short_title": "",
+          "station_type": "airport",
+          "station_type_name": "аэропорт",
+          "title": "Псков",
+          "transport_type": "plane",
+          "type": "station"
+        },
+        "departure": "2025-04-01T15:00:00+03:00",
+        "departure_from": {
+          "code": "s9600366",
+          "popular_title": "",
+          "short_title": "",
+          "station_type": "airport",
+          "station_type_name": "аэропорт",
+          "title": "Пулково",
+          "transport_type": "plane",
+          "type": "station"
+        },
+        "details": [
+          {
+            "arrival": "2025-04-01T16:30:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": "A",
+            "departure": "2025-04-01T15:00:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": "1",
+            "duration": 5400.0,
+            "from": {
+              "code": "c2",
+              "popular_title": "Санкт-Петербург",
+              "short_title": "Санкт-Петербург",
+              "title": "Санкт-Петербург",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 8565,
+                "codes": {
+                  "iata": "FV",
+                  "icao": null,
+                  "sirena": "ФВ"
+                },
+                "title": "Россия"
+              },
+              "express_type": null,
+              "number": "FV 6037",
+              "short_title": "Санкт-Петербург — Москва",
+              "title": "Санкт-Петербург — Москва",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "plane",
+              "uid": "FV-6037_250401_c8565_12",
+              "vehicle": "Сухой Суперджет 100"
+            },
+            "to": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            }
+          },
+          {
+            "duration": 9000.0,
+            "is_transfer": true,
+            "transfer_from": {
+              "code": "s9600215",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "airport",
+              "station_type_name": "аэропорт",
+              "title": "Внуково",
+              "transport_type": "plane",
+              "type": "station"
+            },
+            "transfer_point": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            },
+            "transfer_to": {
+              "code": "s9600215",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "airport",
+              "station_type_name": "аэропорт",
+              "title": "Внуково",
+              "transport_type": "plane",
+              "type": "station"
+            }
+          },
+          {
+            "arrival": "2025-04-01T20:25:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": "",
+            "departure": "2025-04-01T19:00:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": "A",
+            "duration": 5100.0,
+            "from": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 60780,
+                "codes": {
+                  "iata": "A4",
+                  "icao": null,
+                  "sirena": "А4"
+                },
+                "title": "Азимут"
+              },
+              "express_type": null,
+              "number": "A4 7035",
+              "short_title": "Москва — Псков",
+              "title": "Москва — Псков",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "plane",
+              "uid": "A4-7035_250401_c60780_12",
+              "vehicle": "Сухой Суперджет 100"
+            },
+            "to": {
+              "code": "c25",
+              "popular_title": "Псков",
+              "short_title": "Псков",
+              "title": "Псков",
+              "type": "settlement"
+            }
+          }
+        ],
+        "has_transfers": true,
+        "transfers": [
+          {
+            "code": "c213",
+            "popular_title": "Москва",
+            "short_title": "Москва",
+            "title": "Москва",
+            "type": "settlement"
+          }
+        ],
+        "transport_types": [
+          "plane",
+          "plane"
+        ]
+      },
+      {
+        "arrival": "2025-04-02T03:41:00+03:00",
+        "arrival_to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "departure": "2025-04-01T21:15:00+03:00",
+        "departure_from": {
+          "code": "s9637148",
+          "popular_title": "Автовокзал на Обводном канале",
+          "short_title": null,
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Санкт-Петербург, автовокзал на Обводном канале",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "details": [
+          {
+            "arrival": "2025-04-02T02:09:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-04-01T21:15:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 17640.0,
+            "from": {
+              "code": "c2",
+              "popular_title": "Санкт-Петербург",
+              "short_title": "Санкт-Петербург",
+              "title": "Санкт-Петербург",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 56543,
+                "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+                },
+                "title": "ООО\"СКСавто\""
+              },
+              "express_type": null,
+              "number": "",
+              "short_title": "Санкт-Петербург, автовокзал на Обводном канале — Минск, автовокзал «Центральный»",
+              "title": "Санкт-Петербург, автовокзал на Обводном канале — Минск, автовокзал «Центральный»",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "bus",
+              "uid": "empty_3_f9637148t9752664_114",
+              "vehicle": null
+            },
+            "to": {
+              "code": "c20641",
+              "popular_title": "Остров",
+              "short_title": "Остров",
+              "title": "Остров",
+              "type": "settlement"
+            }
+          },
+          {
+            "duration": 2580.0,
+            "is_transfer": true,
+            "transfer_from": {
+              "code": "s9637848",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "bus_station",
+              "station_type_name": "автовокзал",
+              "title": "Остров, автовокзал",
+              "transport_type": "bus",
+              "type": "station"
+            },
+            "transfer_point": {
+              "code": "c20641",
+              "popular_title": "Остров",
+              "short_title": "Остров",
+              "title": "Остров",
+              "type": "settlement"
+            },
+            "transfer_to": {
+              "code": "s9637848",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "bus_station",
+              "station_type_name": "автовокзал",
+              "title": "Остров, автовокзал",
+              "transport_type": "bus",
+              "type": "station"
+            }
+          },
+          {
+            "arrival": "2025-04-02T03:41:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-04-02T02:52:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 2940.0,
+            "from": {
+              "code": "c20641",
+              "popular_title": "Остров",
+              "short_title": "Остров",
+              "title": "Остров",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 60731,
+                "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+                },
+                "title": "ООО \"Империя авто\""
+              },
+              "express_type": null,
+              "number": "",
+              "short_title": "Смоленск — Санкт-Петербург, автовокзал на Обводном канале",
+              "title": "Смоленск — Санкт-Петербург, автовокзал на Обводном канале",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "bus",
+              "uid": "empty_2_f9623429t9637148_114",
+              "vehicle": null
+            },
+            "to": {
+              "code": "c25",
+              "popular_title": "Псков",
+              "short_title": "Псков",
+              "title": "Псков",
+              "type": "settlement"
+            }
+          }
+        ],
+        "has_transfers": true,
+        "transfers": [
+          {
+            "code": "c20641",
+            "popular_title": "Остров",
+            "short_title": "Остров",
+            "title": "Остров",
+            "type": "settlement"
+          }
+        ],
+        "transport_types": [
+          "bus",
+          "bus"
+        ]
+      },
+      {
+        "arrival": "2025-04-02T07:20:00+03:00",
+        "arrival_to": {
+          "code": "s9602993",
+          "popular_title": null,
+          "short_title": null,
+          "station_type": "station",
+          "station_type_name": "станция",
+          "title": "Псков-Пасс.",
+          "transport_type": "train",
+          "type": "station"
+        },
+        "departure": "2025-04-01T23:45:00+03:00",
+        "departure_from": {
+          "code": "s9602498",
+          "popular_title": "Балтийский вокзал",
+          "short_title": "СПб-Балт.",
+          "station_type": "train_station",
+          "station_type_name": "вокзал",
+          "title": "Санкт-Петербург (Балтийский вокзал)",
+          "transport_type": "train",
+          "type": "station"
+        },
+        "details": [
+          {
+            "arrival": "2025-04-02T02:07:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-04-01T23:45:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 8520.0,
+            "from": {
+              "code": "c2",
+              "popular_title": "Санкт-Петербург",
+              "short_title": "Санкт-Петербург",
+              "title": "Санкт-Петербург",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "кроме: Электродепо, Шоссейная, Антонины Петровой",
+            "thread": {
+              "carrier": {
+                "code": 1332,
+                "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+                },
+                "title": "Северо-западная пригородная пассажирская компания"
+              },
+              "express_type": null,
+              "number": "6141",
+              "short_title": "СПб-Балт. — Луга-1",
+              "title": "Санкт-Петербург (Балтийский вокзал) — Луга-1",
+              "transport_subtype": {
+                "code": "suburban",
+                "color": "#CC6600",
+                "title": "Пригородный поезд"
+              },
+              "transport_type": "suburban",
+              "uid": "6141_0_9602498_g25_4",
+              "vehicle": null
+            },
+            "to": {
+              "code": "c10876",
+              "popular_title": "Луга",
+              "short_title": "Луга",
+              "title": "Луга",
+              "type": "settlement"
+            }
+          },
+          {
+            "duration": 9780.0,
+            "is_transfer": true,
+            "transfer_from": {
+              "code": "s9603129",
+              "popular_title": "",
+              "short_title": "",
+              "station_type": "train_station",
+              "station_type_name": "вокзал",
+              "title": "Луга-1",
+              "transport_type": "train",
+              "type": "station"
+            },
+            "transfer_point": {
+              "code": "c10876",
+              "popular_title": "Луга",
+              "short_title": "Луга",
+              "title": "Луга",
+              "type": "settlement"
+            },
+            "transfer_to": {
+              "code": "s9603129",
+              "popular_title": "",
+              "short_title": "",
+              "station_type": "train_station",
+              "station_type_name": "вокзал",
+              "title": "Луга-1",
+              "transport_type": "train",
+              "type": "station"
+            }
+          },
+          {
+            "arrival": "2025-04-02T07:20:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-04-02T04:50:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 9000.0,
+            "from": {
+              "code": "c10876",
+              "popular_title": "Луга",
+              "short_title": "Луга",
+              "title": "Луга",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-02",
+            "stops": "кроме: 144 км, 147 км, Калгановка, 167 км, 177 км, Любятово",
+            "thread": {
+              "carrier": {
+                "code": 1332,
+                "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+                },
+                "title": "Северо-западная пригородная пассажирская компания"
+              },
+              "express_type": null,
+              "number": "6507",
+              "short_title": "Луга-1 — Псков-Пасс.",
+              "title": "Луга-1 — Псков-Пасс.",
+              "transport_subtype": {
+                "code": "suburban",
+                "color": "#CC6600",
+                "title": "Пригородный поезд"
+              },
+              "transport_type": "suburban",
+              "uid": "6507_0_9603129_g25_4",
+              "vehicle": null
+            },
+            "to": {
+              "code": "c25",
+              "popular_title": "Псков",
+              "short_title": "Псков",
+              "title": "Псков",
+              "type": "settlement"
+            }
+          }
+        ],
+        "has_transfers": true,
+        "transfers": [
+          {
+            "code": "s9603129",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Луга-1",
+            "transport_type": "train",
+            "type": "station"
+          }
+        ],
+        "transport_types": [
+          "suburban",
+          "suburban"
+        ]
+      },
+      {
+        "arrival": "2025-04-01T09:25:00+03:00",
+        "arrival_to": {
+          "code": "s9623414",
+          "popular_title": "",
+          "short_title": "",
+          "station_type": "airport",
+          "station_type_name": "аэропорт",
+          "title": "Псков",
+          "transport_type": "plane",
+          "type": "station"
+        },
+        "departure": "2025-04-01T00:30:00+03:00",
+        "departure_from": {
+          "code": "s9600366",
+          "popular_title": "",
+          "short_title": "",
+          "station_type": "airport",
+          "station_type_name": "аэропорт",
+          "title": "Пулково",
+          "transport_type": "plane",
+          "type": "station"
+        },
+        "details": [
+          {
+            "arrival": "2025-04-01T02:10:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": "B",
+            "departure": "2025-04-01T00:30:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": "1",
+            "duration": 6000.0,
+            "from": {
+              "code": "c2",
+              "popular_title": "Санкт-Петербург",
+              "short_title": "Санкт-Петербург",
+              "title": "Санкт-Петербург",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 8565,
+                "codes": {
+                  "iata": "FV",
+                  "icao": null,
+                  "sirena": "ФВ"
+                },
+                "title": "Россия"
+              },
+              "express_type": null,
+              "number": "FV 6708",
+              "short_title": "Санкт-Петербург — Москва",
+              "title": "Санкт-Петербург — Москва",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "plane",
+              "uid": "FV-6708_250401_c8565_12",
+              "vehicle": "Сухой Суперджет 100"
+            },
+            "to": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            }
+          },
+          {
+            "duration": 21000.0,
+            "is_transfer": true,
+            "transfer_from": {
+              "code": "s9600213",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "airport",
+              "station_type_name": "аэропорт",
+              "title": "Шереметьево",
+              "transport_type": "plane",
+              "type": "station"
+            },
+            "transfer_point": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            },
+            "transfer_to": {
+              "code": "s9600215",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "airport",
+              "station_type_name": "аэропорт",
+              "title": "Внуково",
+              "transport_type": "plane",
+              "type": "station"
+            }
+          },
+          {
+            "arrival": "2025-04-01T09:25:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": "",
+            "departure": "2025-04-01T08:00:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": "A",
+            "duration": 5100.0,
+            "from": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 60780,
+                "codes": {
+                  "iata": "A4",
+                  "icao": null,
+                  "sirena": "А4"
+                },
+                "title": "Азимут"
+              },
+              "express_type": null,
+              "number": "A4 7033",
+              "short_title": "Москва — Псков",
+              "title": "Москва — Псков",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "plane",
+              "uid": "A4-7033_250401_c60780_12",
+              "vehicle": "Сухой Суперджет 100"
+            },
+            "to": {
+              "code": "c25",
+              "popular_title": "Псков",
+              "short_title": "Псков",
+              "title": "Псков",
+              "type": "settlement"
+            }
+          }
+        ],
+        "has_transfers": true,
+        "transfers": [
+          {
+            "code": "c213",
+            "popular_title": "Москва",
+            "short_title": "Москва",
+            "title": "Москва",
+            "type": "settlement"
+          }
+        ],
+        "transport_types": [
+          "plane",
+          "plane"
+        ]
+      },
+      {
+        "arrival": "2025-04-02T07:45:00+03:00",
+        "arrival_to": {
+          "code": "s9623413",
+          "popular_title": "Автовокзал Псков",
+          "short_title": "",
+          "station_type": "bus_station",
+          "station_type_name": "автовокзал",
+          "title": "Псков, автовокзал",
+          "transport_type": "bus",
+          "type": "station"
+        },
+        "departure": "2025-04-01T22:30:00+03:00",
+        "departure_from": {
+          "code": "s9602499",
+          "popular_title": "Ладожский вокзал",
+          "short_title": "СПб-Лад.",
+          "station_type": "train_station",
+          "station_type_name": "вокзал",
+          "title": "Санкт-Петербург (Ладожский вокзал)",
+          "transport_type": "train",
+          "type": "station"
+        },
+        "details": [
+          {
+            "arrival": "2025-04-02T03:24:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-04-01T22:30:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 17640.0,
+            "from": {
+              "code": "c2",
+              "popular_title": "Санкт-Петербург",
+              "short_title": "Санкт-Петербург",
+              "title": "Санкт-Петербург",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 112,
+                "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+                },
+                "title": "РЖД/ФПК"
+              },
+              "express_type": null,
+              "number": "607А",
+              "short_title": "Санкт-Петербург — Великие Луки",
+              "title": "Санкт-Петербург — Великие Луки",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "train",
+              "uid": "607A_3_2",
+              "vehicle": null
+            },
+            "to": {
+              "code": "c21663",
+              "popular_title": "Дедовичи",
+              "short_title": "Дедовичи",
+              "title": "Дедовичи",
+              "type": "settlement"
+            }
+          },
+          {
+            "duration": 7560.0,
+            "is_transfer": true,
+            "transfer_from": {
+              "code": "s9603020",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "station",
+              "station_type_name": "станция",
+              "title": "Дедовичи",
+              "transport_type": "train",
+              "type": "station"
+            },
+            "transfer_point": {
+              "code": "c21663",
+              "popular_title": "Дедовичи",
+              "short_title": "Дедовичи",
+              "title": "Дедовичи",
+              "type": "settlement"
+            },
+            "transfer_to": {
+              "code": "s9804749",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "",
+              "station_type_name": "автостанция",
+              "title": "Дедовичи, автостанция",
+              "transport_type": "bus",
+              "type": "station"
+            }
+          },
+          {
+            "arrival": "2025-04-02T07:45:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-04-02T05:30:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 8100.0,
+            "from": {
+              "code": "c21663",
+              "popular_title": "Дедовичи",
+              "short_title": "Дедовичи",
+              "title": "Дедовичи",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-02",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 59083,
+                "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+                },
+                "title": "ИП Берко Александр Леонидович"
+              },
+              "express_type": null,
+              "number": "",
+              "short_title": "Дедовичи — Псков, автовокзал",
+              "title": "Дедовичи — Псков, автовокзал",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "bus",
+              "uid": "empty_0_f9804749t9623413_114",
+              "vehicle": null
+            },
+            "to": {
+              "code": "c25",
+              "popular_title": "Псков",
+              "short_title": "Псков",
+              "title": "Псков",
+              "type": "settlement"
+            }
+          }
+        ],
+        "has_transfers": true,
+        "transfers": [
+          {
+            "code": "c21663",
+            "popular_title": "Дедовичи",
+            "short_title": "Дедовичи",
+            "title": "Дедовичи",
+            "type": "settlement"
+          }
+        ],
+        "transport_types": [
+          "train",
+          "bus"
+        ]
+      },
+      {
+        "arrival": "2025-04-02T09:25:00+03:00",
+        "arrival_to": {
+          "code": "s9623414",
+          "popular_title": "",
+          "short_title": "",
+          "station_type": "airport",
+          "station_type_name": "аэропорт",
+          "title": "Псков",
+          "transport_type": "plane",
+          "type": "station"
+        },
+        "departure": "2025-04-01T23:55:00+03:00",
+        "departure_from": {
+          "code": "s9600366",
+          "popular_title": "",
+          "short_title": "",
+          "station_type": "airport",
+          "station_type_name": "аэропорт",
+          "title": "Пулково",
+          "transport_type": "plane",
+          "type": "station"
+        },
+        "details": [
+          {
+            "arrival": "2025-04-02T01:35:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": "A",
+            "departure": "2025-04-01T23:55:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": "1",
+            "duration": 6000.0,
+            "from": {
+              "code": "c2",
+              "popular_title": "Санкт-Петербург",
+              "short_title": "Санкт-Петербург",
+              "title": "Санкт-Петербург",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 8565,
+                "codes": {
+                  "iata": "FV",
+                  "icao": null,
+                  "sirena": "ФВ"
+                },
+                "title": "Россия"
+              },
+              "express_type": null,
+              "number": "FV 6161",
+              "short_title": "Санкт-Петербург — Москва",
+              "title": "Санкт-Петербург — Москва",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "plane",
+              "uid": "FV-6161_250401_c8565_12",
+              "vehicle": "Сухой Суперджет 100"
+            },
+            "to": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            }
+          },
+          {
+            "duration": 23100.0,
+            "is_transfer": true,
+            "transfer_from": {
+              "code": "s9600215",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "airport",
+              "station_type_name": "аэропорт",
+              "title": "Внуково",
+              "transport_type": "plane",
+              "type": "station"
+            },
+            "transfer_point": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            },
+            "transfer_to": {
+              "code": "s9600215",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "airport",
+              "station_type_name": "аэропорт",
+              "title": "Внуково",
+              "transport_type": "plane",
+              "type": "station"
+            }
+          },
+          {
+            "arrival": "2025-04-02T09:25:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": "",
+            "departure": "2025-04-02T08:00:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": "A",
+            "duration": 5100.0,
+            "from": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-02",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 60780,
+                "codes": {
+                  "iata": "A4",
+                  "icao": null,
+                  "sirena": "А4"
+                },
+                "title": "Азимут"
+              },
+              "express_type": null,
+              "number": "A4 7033",
+              "short_title": "Москва — Псков",
+              "title": "Москва — Псков",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "plane",
+              "uid": "A4-7033_250402_c60780_12",
+              "vehicle": "Сухой Суперджет 100"
+            },
+            "to": {
+              "code": "c25",
+              "popular_title": "Псков",
+              "short_title": "Псков",
+              "title": "Псков",
+              "type": "settlement"
+            }
+          }
+        ],
+        "has_transfers": true,
+        "transfers": [
+          {
+            "code": "c213",
+            "popular_title": "Москва",
+            "short_title": "Москва",
+            "title": "Москва",
+            "type": "settlement"
+          }
+        ],
+        "transport_types": [
+          "plane",
+          "plane"
+        ]
+      },
+      {
+        "arrival": "2025-04-02T09:25:00+03:00",
+        "arrival_to": {
+          "code": "s9623414",
+          "popular_title": "",
+          "short_title": "",
+          "station_type": "airport",
+          "station_type_name": "аэропорт",
+          "title": "Псков",
+          "transport_type": "plane",
+          "type": "station"
+        },
+        "departure": "2025-04-01T22:00:00+03:00",
+        "departure_from": {
+          "code": "s9600366",
+          "popular_title": "",
+          "short_title": "",
+          "station_type": "airport",
+          "station_type_name": "аэропорт",
+          "title": "Пулково",
+          "transport_type": "plane",
+          "type": "station"
+        },
+        "details": [
+          {
+            "arrival": "2025-04-01T23:30:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": "A",
+            "departure": "2025-04-01T22:00:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": "1",
+            "duration": 5400.0,
+            "from": {
+              "code": "c2",
+              "popular_title": "Санкт-Петербург",
+              "short_title": "Санкт-Петербург",
+              "title": "Санкт-Петербург",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-01",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 8565,
+                "codes": {
+                  "iata": "FV",
+                  "icao": null,
+                  "sirena": "ФВ"
+                },
+                "title": "Россия"
+              },
+              "express_type": null,
+              "number": "FV 6187",
+              "short_title": "Санкт-Петербург — Москва",
+              "title": "Санкт-Петербург — Москва",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "plane",
+              "uid": "FV-6187_250401_c8565_12",
+              "vehicle": "Сухой Суперджет 100"
+            },
+            "to": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            }
+          },
+          {
+            "duration": 30600.0,
+            "is_transfer": true,
+            "transfer_from": {
+              "code": "s9600215",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "airport",
+              "station_type_name": "аэропорт",
+              "title": "Внуково",
+              "transport_type": "plane",
+              "type": "station"
+            },
+            "transfer_point": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            },
+            "transfer_to": {
+              "code": "s9600215",
+              "popular_title": null,
+              "short_title": null,
+              "station_type": "airport",
+              "station_type_name": "аэропорт",
+              "title": "Внуково",
+              "transport_type": "plane",
+              "type": "station"
+            }
+          },
+          {
+            "arrival": "2025-04-02T09:25:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": "",
+            "departure": "2025-04-02T08:00:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": "A",
+            "duration": 5100.0,
+            "from": {
+              "code": "c213",
+              "popular_title": "Москва",
+              "short_title": "Москва",
+              "title": "Москва",
+              "type": "settlement"
+            },
+            "start_date": "2025-04-02",
+            "stops": "",
+            "thread": {
+              "carrier": {
+                "code": 60780,
+                "codes": {
+                  "iata": "A4",
+                  "icao": null,
+                  "sirena": "А4"
+                },
+                "title": "Азимут"
+              },
+              "express_type": null,
+              "number": "A4 7033",
+              "short_title": "Москва — Псков",
+              "title": "Москва — Псков",
+              "transport_subtype": {
+                "code": null,
+                "color": null,
+                "title": null
+              },
+              "transport_type": "plane",
+              "uid": "A4-7033_250402_c60780_12",
+              "vehicle": "Сухой Суперджет 100"
+            },
+            "to": {
+              "code": "c25",
+              "popular_title": "Псков",
+              "short_title": "Псков",
+              "title": "Псков",
+              "type": "settlement"
+            }
+          }
+        ],
+        "has_transfers": true,
+        "transfers": [
+          {
+            "code": "c213",
+            "popular_title": "Москва",
+            "short_title": "Москва",
+            "title": "Москва",
+            "type": "settlement"
+          }
+        ],
+        "transport_types": [
+          "plane",
+          "plane"
+        ]
+      }
+    ]
+  }
+}
